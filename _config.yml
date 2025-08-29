@@ -1,4 +1,4 @@
 title: "wonderful site"
 description: "site description goes here"
 author: "Myself"
-theme: jekyll-theme-minimal   # questo applica il tema Jekyll "minima"
+theme: jekyll-theme-minima   # questo applica il tema Jekyll "minima"
