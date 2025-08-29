@@ -1,4 +1,4 @@
 title: "Work in progress..."
 description: "Welcome to my site. Yeah, I know it is a little empty so far... I am working on it!"
 author: "Giulia Pusceddu"
-theme: jekyll-theme-minima   # questo applica il tema Jekyll "minima"
+theme: jekyll-theme-minimal 
