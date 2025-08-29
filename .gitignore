@@ -1,0 +1,22 @@
+# Dipendenze Ruby
+/.bundle/
+/vendor/bundle/
+
+# File di build di Jekyll
+/_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# File di log temporanei
+*.log
+
+# OS specifici
+.DS_Store
+Thumbs.db
+
+# Editor specifici
+.idea/
+.vscode/
+*.swp
+*.swo
